@@ -29,9 +29,9 @@
    <img align="center" alt="Git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
    <img align="center" alt="trello" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">    
    <img align="center" alt="trello" height="40" width="80" src="http://kanbanmps.com/beta/wp-content/uploads/2017/10/Kanban-Logo.png">    
-  </div>
-  
 </div>
+ 
+## 
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/diego-diaz-medina/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
